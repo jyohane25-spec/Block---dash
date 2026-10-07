@@ -1,0 +1,19 @@
+{
+  "name": "Block Dash",
+  "short_name": "Block Dash",
+  "description": "A clean, simple puzzle game where you guide the ball to the star.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#102b4d",
+  "theme_color": "#0f2747",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
