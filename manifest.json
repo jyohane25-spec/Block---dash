@@ -1,7 +1,7 @@
 {
   "name": "Block Dash",
   "short_name": "Block Dash",
-  "description": "A clean, simple puzzle game where you guide the ball to the star.",
+  "description": "description": "A simple and fun block puzzle game. Think, move, and reach the star while avoiding the green blocks.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
